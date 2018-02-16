@@ -5,3 +5,15 @@
 * {
     font-family: 'Montserrat', sans-serif;
 }
+/*
+ID #
+*/
+#nome{
+    width: 100%;
+}
+/*
+Class .
+*/
+.nome{
+    width: 100%;
+}
