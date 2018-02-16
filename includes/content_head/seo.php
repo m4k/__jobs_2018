@@ -6,7 +6,7 @@
     $decription = SEO_DESCIPTION;
     $tituloPage = SEO_TITLE;
 
-    $url_site = array('1' => 'www.moow.com.br', '2' => 'www.casaxiq.com.br');
+    $url_site = array('1' => '', '2' => '');
 
 ?>
 <title>zzzzzzzzzzz</title>
